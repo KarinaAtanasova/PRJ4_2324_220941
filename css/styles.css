@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #9A4444;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #E68F90
 }
 
 /* Styles for lists in the document */
@@ -49,3 +49,19 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+
+.font-adjustment {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #202030;
+	background-color: #f8f8fc;
+}
+
+.coco {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #DDDA4D;
+	background-color: #9A4444;
+}
+
+
+
+
